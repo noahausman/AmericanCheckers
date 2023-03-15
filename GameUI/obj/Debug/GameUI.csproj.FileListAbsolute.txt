@@ -1,0 +1,11 @@
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\bin\Debug\GameUI.dll.config
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\bin\Debug\GameUI.dll
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\bin\Debug\GameUI.pdb
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\obj\Debug\GameUI.csproj.AssemblyReference.cache
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\obj\Debug\GameUI.FormGame.resources
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\obj\Debug\GameUI.FormSettings.resources
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\obj\Debug\GameUI.Properties.Resources.resources
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\obj\Debug\GameUI.dll
+C:\Users\edend\OneDrive\Documents\Y2S2\C#\B22 Ex05 NoaHausman 315335919 EdenDaniel 207118969\GameUI\obj\Debug\GameUI.pdb
